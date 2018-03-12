@@ -336,7 +336,6 @@ input[type=submit] {
     }
     .wrapper {
         width: 730px;
-        background: none;
         border: none;  
     }
     .row {
@@ -381,62 +380,137 @@ input[type=submit] {
     .navbar {
         width: 100%;
         position: static;
-
     }    
     .name {
         margin: 0;
         width: 100%;
         text-align: center;
         padding: 1%;
-
     }
     .topnav {
         margin: 0;
         width: 100%;
         text-align: center;
-        
-        
+        padding: 1%;  
     }
     .wrapper {
-        width: 730px;
-        background: none;
+        width: 600px;
         border: none;  
     }
-    .row {
+    #aboutme {
         width: 100%;
     }
+    img[class=biopic] {
+        width: 100%;
+        height: auto;
+        margin: 6px;
+        padding: 0;
+    }
+    .row {
+        width: 600px;
+        height: auto;
+    }
     .column1{
-        padding: 2%;
+        width: 100%;
+        height: auto;
+        padding: 0;
+        float: none; 
+        margin-right: 0; 
+    }
+    .content1 {
+        height: auto;
+        margin-right: 0;
+        padding: 0;
+        
+    }
+    .hang {
+        left: 233px;
     }
     .column2 {
-        padding: 2%;
+        width: 100%;
+        height: auto;
+        padding: 0;
+        float: none;
+        height: auto;
+        margin-right: 0;
+    }
+    .content2 {
+        height: auto;
+        margin-right: 0;
+        padding: 0;
+    }
+    .RPG {
+        left: 233px;
     }
     .column3 {
-        padding: 2%;
+        width: 100%;
+        height: auto;
+        padding: 0;
+        float: none;
+        height: auto;
+        margin-right: 0;
+    }
+    .content3 {
+        height: auto;
+        margin-right: 0;
+        padding: 0;
+    }
+    .TG {
+        left: 233px;
     }
     .column4 {
-        padding: 2%;
+        width: 100%;
+        height: auto;
+        padding: 0;
+        float: none;
+        height: auto;
+        margin-right: 0;
+    }
+    .content4 {
+        height: auto;
+        margin-right: 0;
+        padding: 0;
+    }
+    .RIW {
+        left: 233px;
     }
     .column5 {
-        padding: 2%;
+        width: 100%;
+        height: auto;
+        padding: 0;
+        float: none;
+        height: auto;
+        margin-right: 0;
+    }
+    .content5 {
+        height: auto;
+        margin-right: 0;
+        padding: 0;
+    }
+    .RPS {
+        left: 233px;
     }
     .container {
         width: 730px;
         margin: 3%;
     }
     input[type=text] {
-        width: 92%;
+        width: 76%;
     }
     #message {
-        width: 92%;
+        width: 76%;
         
     }
     .container2 {
-        margin-top: 15%;
-        margin-left:34%;
+        width: 99%;
+        margin: 0; 
+        margin-top: 24%;
+    }
+    #Connect {
+        margin-right: 150px;
+        margin-left: 150px;
     }
 
 }
 
 
-}
